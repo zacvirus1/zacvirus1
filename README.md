@@ -25,5 +25,5 @@
 <div>
  <img src="https://img.shields.io/badge/Zeus.#0001?style=for-the-badge&logo=discord&logoColor=white"> <a href="https://www.instagram.com/izael_oficia.l/"target="_blank">
 	<img src="https://img.shields.io/badge/%2FNeltronsE4405Fstyle=forthebadge&logo=instagram&logoColor=white" target="_blank"></a> 
-			 <a href="mailto:zrafaelgamer000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/neltronservices%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+			 <a href="mailto:zrafaelgamer000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/zrafaelgamer000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 	</div>
