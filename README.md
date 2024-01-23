@@ -1,5 +1,5 @@
 <h1>Bem Vindos Ao Meu Perfilzin :3 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-<p>Eu Sou Izael, sou desenvolvedor há 6 anos, atualmente desenvolvendo para <b>FLOUREON</b>.</p><br>
+<p>Eu Sou Rest API Sistemas, sou desenvolvedor há 10 anos, atualmente desenvolvendo para <b>FLOUREON</b>.</p><br>
 
 <div>
     <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=erickvinicios&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
@@ -19,7 +19,15 @@
     <img alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img alt="ELECTRON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
     <img alt="MYSQL & SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    <img alt="GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+    <img alt="RUBY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+    <img alt="SWIFT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+    <img alt="RUST" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
 </div><br><br>
+
 
 <h3>Contato</h3>
 
