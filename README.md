@@ -30,8 +30,6 @@
 
 <h3>Contato</h3>
 
-<h3>Contato</h3>
-
 <div>
     </a>
     <a href="https://t.me/restapisistemas" target="_blank">
