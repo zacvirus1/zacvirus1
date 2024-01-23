@@ -24,5 +24,5 @@
 <h3>Contato</h3>
 
 <div>
-    <img src="[https://img.shields.io/badge/Zeus.#0001](https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png)https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/Zeus.#0001](https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png)https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png](https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png)](https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0-2048x2048.png)https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0-2048x2048.png?style=for-the-badge&logo=discord&logoColor=white">
 </div>
