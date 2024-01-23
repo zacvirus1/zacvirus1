@@ -24,5 +24,5 @@
 <h3>Contato</h3>
 
 <div>
-    <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0-2048x2048.png?style=for-the-badge&logo=discord&logoColor=white">
+    <a href="https://www.vecteezy.com/png/18930718-discord-logo-png-discord-icon-transparent-png">discord logo png, discord icon transparent png PNGs by Vecteezy</a>
 </div>
