@@ -23,6 +23,6 @@
 
 <h3>Contato</h3>
 
-<div>
-    <a href="https://www.vecteezy.com/png/18930718-discord-logo-png-discord-icon-transparent-png">discord logo png, discord icon transparent png PNGs by Vecteezy</a>
-</div>
+    <a href="https://t.me/restapisistemas" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+    </a>
