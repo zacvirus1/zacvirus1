@@ -2,8 +2,8 @@
 <p>Eu Sou Rest API Sistemas, sou desenvolvedor há 10 anos, atualmente desenvolvendo para <b>FLOUREON</b>.</p><br>
 
 <div>
-    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=erickvinicios&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickvinicios&layout=compact&langs_count=7&theme=midnight-purple"/>
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=Rest-API-Sistemas&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rest-API-Sistemas&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <div><br>
